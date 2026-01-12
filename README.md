@@ -1,7 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-Focused-blue)
 ![ML](https://img.shields.io/badge/Machine_Learning-Learning-green)
 ![Status](https://img.shields.io/badge/Status-Student-orange)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanaricode&show_icons=true&theme=dark)
 
 # 👋 Hello, I'm Hanari
 
