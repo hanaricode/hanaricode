@@ -30,9 +30,13 @@
 
 ## 🛠️ Tech Stack (Learning & Using)
 
+- **IDE**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="25" height="25"/>
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="25" height="25"/>
+
 - **Languages**
-  - 🐍 Python (Main)
-  - 💠 C++ (Academic only)
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"/> (Main)
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="25" height="25"/> (Academic only)
 
 - **Currently Learning**
   - Python fundamentals
