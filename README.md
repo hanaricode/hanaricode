@@ -38,11 +38,6 @@
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"/> (Main)
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="25" height="25"/> (Academic only)
 
-- **Currently Learning**
-  - Python fundamentals
-  - Data structures (basic)
-  - Logic & problem solving
-  - Intro to Machine Learning concepts
 
   ---
   > ❗Repository dibuat sebagai **catatan belajar**, bukan project profesional.
