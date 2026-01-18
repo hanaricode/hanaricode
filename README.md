@@ -41,6 +41,4 @@
 
   ---
   > ❗Repository dibuat sebagai **catatan belajar**, bukan project profesional.
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanaricode&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanaricode&theme=react-dark)
