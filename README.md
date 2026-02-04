@@ -17,15 +17,6 @@
   
 ✨Beyond technology, I am genuinely interested in **Space and Astronomy** and Anime or Light Novel,<br>
   and I believe it is valuable to share this curiosity so please don’t hesitate to start a conversation with me.
-
----
-
-## 🛠️ Tech Stack (Learning & Using)
-
-- **IDE**
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="25" height="25"/>
-- **Languages**
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="25" height="25"/>
   
   ---
 > ### Github Statistic
@@ -34,7 +25,4 @@
   <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanaricode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanaricode&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
-</p>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanaricode&theme=react-dark)
-  > ❗Repository dibuat sebagai **catatan belajar**, bukan project profesional (untuk saat ini).
+</p> 
