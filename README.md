@@ -1,4 +1,3 @@
-![Python](https://img.shields.io/badge/Python-Focused-FFD43B)
 ![ML](https://img.shields.io/badge/Machine_Learning-Learning-8E4585)
 ![Status](https://img.shields.io/badge/Status-Student-blue)
 ![Interested](https://img.shields.io/badge/Interested-Astronomy-DC143C)
