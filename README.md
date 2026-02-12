@@ -29,13 +29,15 @@
   * **[Data Science Fundamentals](https://www.dicoding.com/certificates/07Z6J4842XQR)** - Worked with data preprocessing, analysis, and basic modeling techniques.
 
 ## 📊 Data - Programming Foundation
-  * **[SQL Fundamentals](https://www.dicoding.com/certificates/EYX4KJJ46PDL)** - Queried, managed, and structured relational databases efficiently.
-  * **[Data Visualization Basics](https://www.dicoding.com/certificates/GRX5J4VYKX0M)** - Turned raw data into clear and actionable visual insights.
-  * **[Procedural Programming with Python](https://www.dicoding.com/certificates/MRZM6N17RPYQ)** - Developed structured algorithms and problem-solving logic in Python.
-  * **[Getting Started Programming with Python](https://www.dicoding.com/certificates/MRZM602NRPYQ)** - Built strong foundations in Python programming.
-  * **[Programming Logic 101](https://www.dicoding.com/certificates/98XWO98D9ZM3)** - Strengthened computational thinking and algorithm design skills.
-  * **[Getting Started with Software Development](https://www.dicoding.com/certificates/JLX158V35Z72)** - Established core software engineering fundamentals.
+* **[SQL Fundamentals](https://www.dicoding.com/certificates/EYX4KJJ46PDL)** - Queried, managed, and structured relational databases efficiently.
+* **[Data Visualization Basics](https://www.dicoding.com/certificates/GRX5J4VYKX0M)** - Turned raw data into clear and actionable visual insights.
+* **[Procedural Programming with Python](https://www.dicoding.com/certificates/MRZM6N17RPYQ)** - Developed structured algorithms and problem-solving logic in Python.
+* **[Getting Started Programming with Python](https://www.dicoding.com/certificates/MRZM602NRPYQ)** - Built strong foundations in Python programming.
+* **[Programming Logic 101](https://www.dicoding.com/certificates/98XWO98D9ZM3)** - Strengthened computational thinking and algorithm design skills.
+* **[Getting Started with Software Development](https://www.dicoding.com/certificates/JLX158V35Z72)** - Established core software engineering fundamentals.
+  * *[Getting Started]*
     
+
     ---
     
 > ### Github Statistic
