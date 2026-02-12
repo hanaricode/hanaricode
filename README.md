@@ -20,7 +20,7 @@
   ---
 
 ## 🏆Certifications & Achievements
-  👨‍💻Below are certifications that enhance my professional skills:
+  Below are certifications that enhance my professional skills:
 
 ## 🤖AI - Machine Learning
   * **[Introduction to Artificial Intelligence](https://www.dicoding.com/certificates/72ZDK11GLPYW)** - Built a solid understanding of core AI principles and practical use cases.
