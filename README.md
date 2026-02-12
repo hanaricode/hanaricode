@@ -17,12 +17,12 @@
 ✨Beyond technology, I am genuinely interested in **Space and Astronomy** and Anime or Light Novel,<br>
   and I believe it is valuable to share this curiosity so please don’t hesitate to start a conversation with me.
   
-  ---
+---
 
 ## 🏆Certifications & Achievements
   Below are certifications that enhance my professional skills:
 
-## 🤖AI - Machine Learning
+## 🤖 Artificial Intelligence - Machine Learning
   * **[Introduction to Artificial Intelligence](https://www.dicoding.com/certificates/72ZDK11GLPYW)** - Built a solid understanding of core AI principles and practical use cases.
   * **[Generative AI Fundamentals](https://www.dicoding.com/certificates/1OP8J4YKLPQK)** - Applied generative AI tools for productivity and solution development.
   * **[Prompt Engineering for Developers](https://www.dicoding.com/certificates/2VX354WDJPYQ)** - Crafted optimized prompts to improve AI model performance.
@@ -36,8 +36,7 @@
 * **[Programming Logic 101](https://www.dicoding.com/certificates/98XWO98D9ZM3)** - Strengthened computational thinking and algorithm design skills.
 * **[Getting Started with Software Development](https://www.dicoding.com/certificates/JLX158V35Z72)** - Established core software engineering fundamentals.
 
-##
-     ---
+---
     
 > ### Github Statistic
 <p align="left">
