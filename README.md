@@ -35,10 +35,9 @@
 * **[Getting Started Programming with Python](https://www.dicoding.com/certificates/MRZM602NRPYQ)** - Built strong foundations in Python programming.
 * **[Programming Logic 101](https://www.dicoding.com/certificates/98XWO98D9ZM3)** - Strengthened computational thinking and algorithm design skills.
 * **[Getting Started with Software Development](https://www.dicoding.com/certificates/JLX158V35Z72)** - Established core software engineering fundamentals.
-  * *[ ]*
-    
 
-    ---
+##
+     ---
     
 > ### Github Statistic
 <p align="left">
