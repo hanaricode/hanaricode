@@ -27,6 +27,7 @@
   * **[Generative AI Fundamentals](https://www.dicoding.com/certificates/1OP8J4YKLPQK)** - Applied generative AI tools for productivity and solution development.
   * **[Prompt Engineering for Developers](https://www.dicoding.com/certificates/2VX354WDJPYQ)** - Crafted optimized prompts to improve AI model performance.
   * **[Data Science Fundamentals](https://www.dicoding.com/certificates/07Z6J4842XQR)** - Worked with data preprocessing, analysis, and basic modeling techniques.
+  * **[Machine Learning for Beginners](https://www.dicoding.com/certificates/98XW0R4V9XM3)** - Gained Pratical experience in Training, Validating, and Optimizing models through end-to-end ML.
 
 ## 📊 Data - Programming Foundation
 * **[SQL Fundamentals](https://www.dicoding.com/certificates/EYX4KJJ46PDL)** - Queried, managed, and structured relational databases efficiently.
