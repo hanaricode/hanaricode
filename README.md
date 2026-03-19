@@ -2,10 +2,12 @@
 ![Status](https://img.shields.io/badge/Status-Student-blue)
 ![Interested](https://img.shields.io/badge/Interested-Astronomy-DC143C)
 
-# 👋 Hai, I'm Hanari
-🧑‍🚀I am a Computer Science undergraduate student (currently in 2nd semester)<br>
-  who is currently exploring the fundamentals of programming and technology.<br>
-  My main interest lies in **Python and Machine Learning**, and I am actively building my knowledge step by step.
+<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=50&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&multiline=false&width=1000&height=90&lines=Hii!+%F0%9F%91%8B;I'm+Hanari;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;I+Love+Astronomy+%26+Animanga+%F0%9F%AA%90" alt="Typing SVG" />
+  <br/>
+
+### 🧑‍🚀I am a Computer Science undergraduate student (currently in 2nd semester)
 
 ---
 
@@ -35,3 +37,10 @@
   <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanaricode&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p> 
+
+<p align="center">
+  <b>🎵 My Favorite Song</b><br/></br/>
+  <a href="https://www.youtube.com/watch?v=40dJS_LC6S8">
+    <img src="https://img.youtube.com/vi/40dJS_LC6S8/maxresdefault.jpg" width="300"/>
+  </a>
+</p>
