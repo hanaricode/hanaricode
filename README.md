@@ -8,34 +8,23 @@
   My main interest lies in **Python and Machine Learning**, and I am actively building my knowledge step by step.
 
 ---
-##  🎯 Focus & Interests
-🧠My current focus is on developing a solid foundation in **Python programming**<br>
-  while gradually exploring the fundamentals of **Machine Learning** supported by mathematics such as calculus and linear algebra.<br>
-  I am also building skills in **data processing, algorithmic thinking**, and problem solving<br>
-  with a continuous learning mindset to prepare myself for more advanced areas in computer science.<br>
-  
-✨Beyond technology, I am genuinely interested in **Space and Astronomy** and Anime or Light Novel,<br>
-  and I believe it is valuable to share this curiosity so please don’t hesitate to start a conversation with me.
-  
+
+## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,sklearn,sqlite,vscode,pycharm" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,git,github,linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" title="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48" title="Anaconda"/>
+</p>
+
 ---
 
 ## 🏆Certifications & Achievements
-  Below are certifications that enhance my professional skills:
-
-## 🤖 Artificial Intelligence - Machine Learning
-  * **[Introduction to Artificial Intelligence](https://www.dicoding.com/certificates/72ZDK11GLPYW)** - Built a solid understanding of core AI principles and practical use cases.
-  * **[Generative AI Fundamentals](https://www.dicoding.com/certificates/1OP8J4YKLPQK)** - Applied generative AI tools for productivity and solution development.
-  * **[Prompt Engineering for Developers](https://www.dicoding.com/certificates/2VX354WDJPYQ)** - Crafted optimized prompts to improve AI model performance.
-  * **[Data Science Fundamentals](https://www.dicoding.com/certificates/07Z6J4842XQR)** - Worked with data preprocessing, analysis, and basic modeling techniques.
-  * **[Machine Learning for Beginners](https://www.dicoding.com/certificates/98XW0R4V9XM3)** - Gained Pratical experience in Training, Validating, and Optimizing models through end-to-end ML.
-
-## 📊 Data - Programming Foundation
-* **[SQL Fundamentals](https://www.dicoding.com/certificates/EYX4KJJ46PDL)** - Queried, managed, and structured relational databases efficiently.
-* **[Data Visualization Basics](https://www.dicoding.com/certificates/GRX5J4VYKX0M)** - Turned raw data into clear and actionable visual insights.
-* **[Procedural Programming with Python](https://www.dicoding.com/certificates/MRZM6N17RPYQ)** - Developed structured algorithms and problem-solving logic in Python.
-* **[Getting Started Programming with Python](https://www.dicoding.com/certificates/MRZM602NRPYQ)** - Built strong foundations in Python programming.
-* **[Programming Logic 101](https://www.dicoding.com/certificates/98XWO98D9ZM3)** - Strengthened computational thinking and algorithm design skills.
-* **[Getting Started with Software Development](https://www.dicoding.com/certificates/JLX158V35Z72)** - Established core software engineering fundamentals.
+  The certificate will be displayed on my portfolio website later it's currently being processed.
 
 ---
     
