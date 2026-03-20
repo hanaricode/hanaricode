@@ -31,7 +31,7 @@
 ---
     
 > ### Github Statistic
-<p align="left">
+<p align="center">
 <a href="https://github.com/hanaricode">
   <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanaricode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanaricode&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -39,8 +39,8 @@
 </p> 
 
 <p align="center">
-  <b>🎵 My Favorite Song</b><br/></br/>
-  <a href="https://www.youtube.com/watch?v=40dJS_LC6S8">
-    <img src="https://img.youtube.com/vi/40dJS_LC6S8/maxresdefault.jpg" width="300"/>
+  <b>🎵 My Banger Songs(playlist)</b><br/><br/>
+  <a href="https://youtube.com/playlist?list=PLU5PpceQs-597IYMwlJWIZbwKrhXbPIeC">
+    <img src="https://img.youtube.com/vi/brxrtKmqSYs/maxresdefault.jpg" width="400"/>
   </a>
 </p>
