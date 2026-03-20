@@ -29,18 +29,19 @@
   The certificate will be displayed on my portfolio website later it's currently being processed.
 
 ---
-    
-> ### Github Statistic
-<p align="center">
-<a href="https://github.com/hanaricode">
-  <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanaricode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanaricode&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p> 
 
-<p align="center">
-  <b>🎵 My Banger Songs(playlist)</b><br/><br/>
-  <a href="https://youtube.com/playlist?list=PLU5PpceQs-597IYMwlJWIZbwKrhXbPIeC">
-    <img src="https://img.youtube.com/vi/brxrtKmqSYs/maxresdefault.jpg" width="400"/>
-  </a>
-</p>
+> ### Github Statistic
+<table align="center"><tr>
+  <td align="center">
+    <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanaricode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </td>
+   <td align="center" valign="middle">
+    <b>🎧 My Banger Playlist</b><br/><br/>
+    <a href="https://youtube.com/playlist?list=PLU5PpceQs-597IYMwlJWIZbwKrhXbPIeC">
+      <img height="115em" src="https://img.youtube.com/vi/brxrtKmqSYs/maxresdefault.jpg"/>
+  <td align="center">
+    <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanaricode&layout=compact&langs_count=8&theme=tokyonight"/>
+  </td>
+    </a>
+  </td>
+</tr></table>
