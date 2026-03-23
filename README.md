@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=50&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&multiline=false&width=1000&height=90&lines=Hii!+%F0%9F%91%8B;I'm+Hanari✨;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;I+Love+Astronomy+%26+Animanga+%F0%9F%AA%90" alt="Typing SVG" />
   <br/>
 
-### 🧑‍🚀I am a Computer Science undergraduate student (currently in 2nd semester)
+### 🧑‍🚀1st year Computer Science student | Learning about Machine Learning and Exploring CS Fundamentals
 
 ---
 
