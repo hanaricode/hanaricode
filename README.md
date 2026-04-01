@@ -16,11 +16,11 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,sklearn,sqlite,vscode,pycharm" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,git,github,linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" title="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48" title="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" title="TensorFlow"/>
+   <img src="https://skillicons.dev/icons?i=idea,git,github,linux" />
 </p>
 
 ---
