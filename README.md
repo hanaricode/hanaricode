@@ -13,14 +13,14 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,sklearn,vscode,pycharm,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,sklearn,vscode,pycharm,github,sqlite" />
 </p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" title="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" title="TensorFlow"/>
-   <img src="https://skillicons.dev/icons?i=git,idea,github" />
+   <img src="https://skillicons.dev/icons?i=git,idea" />
 </p>
 
 ---
