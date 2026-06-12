@@ -33,11 +33,6 @@
 
 ---
 
-## 🏆Certifications & Achievements
-  The certificate will be displayed on my portfolio website later it's currently being processed.
-
----
-
 > ### Github Statistic
 <table align="center"><tr>
   <td align="center">
